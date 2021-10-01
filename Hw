@@ -1,0 +1,13 @@
+//  HW.java   Author: Sadbee123
+//
+//  takes 10 ints user inputs and adds them;then 100
+//
+
+public class HW
+{
+  public static void main (String[] args)
+  
+  
+  for (int i = 0; i<20; i++) {
+    System.out.print (i + " ");
+}
